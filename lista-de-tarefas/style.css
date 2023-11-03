@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
-
 body {
   margin: 0;
   font-family: 'Rajdhani', sans-serif;
@@ -46,6 +44,7 @@ ul li {
   display: flex;
   transition: 0.3s;
   align-items: center;
+  word-wrap: break-word;
 }
 
 ul li:nth-child(odd){
